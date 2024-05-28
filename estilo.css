@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(107, 176, 255, 0.808);
+    margin: 0px 400px 0px 400px;
+}
+
+h1 {
+    color: white;
+}
+
+.primeira-div {
+    background-color: rgba(146, 255, 204, 0.767);
+    float: left;
+    width: 792px;
+}
+
+.primeira-div1 {
+    font-size: 17px;
+    float: left;
+    margin: 0px 60px 0px 60px;
+}
+
+.segunda-div {
+    background-color: white;
+    padding: 10px;
+    text-align: justify;
+    float: left;
+    margin-top: 10px;
+    width: 600px;
+}
+
+.terceira-div {
+    background-color: rgba(146, 255, 204, 0.767);
+    float: left;
+    margin: 10px 0px 0px 10px;
+    width: 142px;
+    height: 472px;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+.quarta-div {
+    background-color: white;
+    float: left;
+    width: 785px;
+    margin-top: 10px;
+    padding: 10px 0px 0px 7px;
+    height: 60px;
+}
